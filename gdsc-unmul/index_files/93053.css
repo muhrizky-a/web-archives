@@ -1,0 +1,59 @@
+.SnackbarProvider-styles-snackbar-TuTZl {
+  position: absolute;
+  padding: 0 15px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  bottom: 10px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.SnackbarProvider-styles-snackbar_notification-1CHfq {
+  -webkit-border-radius: var(--notification-border-radius);
+          border-radius: var(--notification-border-radius);
+}
+.SnackbarProvider-styles-snackbar_notification-1CHfq button[type="submit"] {
+  background-color: transparent !important;
+}
+.SnackbarProvider-styles-snackbar_notification-1CHfq button[type="submit"]:hover {
+  background-color: transparent !important;
+}
+
+.EventFormTitleWithCopyableLink-styles-surveyLinkContainer-sEY66 {
+  cursor: pointer;
+  padding: 8px;
+}
+
+.event-page-styles-scrollingBox-E5O3P {
+  margin-left: -5px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.event-page-styles-underlinedLink-I4Rot {
+  text-decoration: underline;
+  font-size: 14;
+  margin-left: 5;
+}
+
+.ChapterPageMap-styles-mapBody-D5h1m {
+  font-size: 18px;
+  margin-bottom: 0;
+}
+.ChapterPageMap-styles-addressLink-U00VB {
+  line-height: 1.8;
+}
+.ChapterPageMap-styles-mapHeading-FU5ha {
+  color: #212225;
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 22px;
+  margin-bottom: 10px;
+  margin-top: 40px;
+}
+.ChapterPageMap-styles-mapDescription-hQlnT {
+  font-size: 18px;
+}
+
